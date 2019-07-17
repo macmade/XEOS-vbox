@@ -13,7 +13,7 @@ XEOS / vbox
 About
 -----
 
-**VirtualBox VMs for XEOS build system.**
+**VirtualBox VMs for the XEOS build system.**
 
 This subproject is part of the [XEOS Operating System](https://github.com/macmade/XEOS/) project.
 
